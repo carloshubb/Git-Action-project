@@ -1,2 +1,1 @@
-# Git-Action-project
-Script project
+# 2023-comeets-vots
